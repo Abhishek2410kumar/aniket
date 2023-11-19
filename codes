@@ -1,0 +1,60 @@
+
+User@LAPTOP-Q6I60MUL ~
+$ cd ~
+
+User@LAPTOP-Q6I60MUL ~
+$ pwd
+/home/User
+
+User@LAPTOP-Q6I60MUL ~
+$ cd ..
+
+User@LAPTOP-Q6I60MUL /home
+$ pwd
+/home
+
+User@LAPTOP-Q6I60MUL /home
+$ ls
+User
+
+User@LAPTOP-Q6I60MUL /home
+$ cd user
+
+User@LAPTOP-Q6I60MUL /home/user
+$ pwd
+/home/user
+
+User@LAPTOP-Q6I60MUL /home/user
+$ ls
+ab           bh.sh      file2         function3.sh  make.sh      user1.sh
+abhi         c          file2.txt     function4.sh  new.sh       variable.sh
+abhishek     file       file4.txt     hello         newfile.txt
+ac           file1      filelab.sh    iknow         newfolder
+b            file1.sh   function1.sh  input.sh      newone.txt
+basic-if.sh  file1.txt  function2.sh  main.sh       test
+
+User@LAPTOP-Q6I60MUL /home/user
+$ cd abhi
+
+User@LAPTOP-Q6I60MUL /home/user/abhi
+$ ls
+file1.txt  file2.txt
+
+User@LAPTOP-Q6I60MUL /home/user/abhi
+$ cd ..
+
+User@LAPTOP-Q6I60MUL /home/user
+$ ls
+ab           bh.sh      file2         function3.sh  make.sh      user1.sh
+abhi         c          file2.txt     function4.sh  new.sh       variable.sh
+abhishek     file       file4.txt     hello         newfile.txt
+ac           file1      filelab.sh    iknow         newfolder
+b            file1.sh   function1.sh  input.sh      newone.txt
+basic-if.sh  file1.txt  function2.sh  main.sh       test
+
+User@LAPTOP-Q6I60MUL /home/user
+$ pwd
+/home/user
+
+User@LAPTOP-Q6I60MUL /home/user
+$
